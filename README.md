@@ -1,0 +1,1 @@
+# yamq stand for yet another mq
